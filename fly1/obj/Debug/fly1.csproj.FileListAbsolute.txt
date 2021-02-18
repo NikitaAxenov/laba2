@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\laba2\fly1\bin\Debug\fly1.exe.config
+C:\Users\Nikita\source\repos\laba2\fly1\bin\Debug\fly1.exe
+C:\Users\Nikita\source\repos\laba2\fly1\bin\Debug\fly1.pdb
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.Form1.resources
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.Properties.Resources.resources
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.exe
+C:\Users\Nikita\source\repos\laba2\fly1\obj\Debug\fly1.pdb
